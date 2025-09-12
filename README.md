@@ -1,1 +1,3 @@
-# Linguagem-Programa-o-2
+# Linguagem-Programação2
+
+Repositório utilizado para atividade da disciplina de LP2.
